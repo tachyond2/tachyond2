@@ -1,5 +1,5 @@
 
-
+![banner](https://github.com/tachyond2/tachyond2/blob/main/Tech%20Factory.png)
 
 # statistic state
 ![Ayao's GitHub stats](https://github-readme-stats.vercel.app/api?username=tachyond2&show_icons=true&theme=cobalt)
